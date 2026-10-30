@@ -1,0 +1,26 @@
+ID,Image,Title,Vendor,Category,Price,Rating,Stock,SKU,Variants
+1,https://placehold.co/400x400/10b981/ffffff?text=Probiotics,Lightweight Probiotics,SoundWave,Health,155.62,4.0,True,SKU-HEA-0001,4
+2,https://placehold.co/400x400/f59e0b/ffffff?text=LED,Wireless LED Desk Lamp,SoundWave,Electronics,145.4,4.6,False,SKU-ELE-0002,2
+3,https://placehold.co/400x400/84cc16/ffffff?text=Tea,Deluxe Tea Collection,StyleCraft,Food & Beverage,185.01,3.5,True,SKU-FOO-0003,3
+4,https://placehold.co/400x400/6366f1/ffffff?text=Tire,Essential Tire Gauge,TechVault,Automotive,70.86,3.6,False,SKU-AUT-0004,5
+5,https://placehold.co/400x400/f59e0b/ffffff?text=Carving,Smart Carving Tools,SparkleBox,Art,97.13,3.5,True,SKU-ART-0005,5
+6,https://placehold.co/400x400/ef4444/ffffff?text=Dog,Professional Dog Food,StyleCraft,Pet Supplies,145.4,4.6,True,SKU-PET-0006,4
+7,https://placehold.co/400x400/84cc16/ffffff?text=Car,Smart Car Wash Kit,UrbanThread,Automotive,139.94,3.0,True,SKU-AUT-0007,3
+8,https://placehold.co/400x400/06b6d4/ffffff?text=Bluetooth,Premium Bluetooth Speaker,AutoParts Pro,Electronics,108.99,4.5,True,SKU-ELE-0008,3
+9,https://placehold.co/400x400/f59e0b/ffffff?text=Tablet,Vintage Tablet Stand,GlowUp,Electronics,44.15,3.4,True,SKU-ELE-0009,2
+10,https://placehold.co/400x400/3b82f6/ffffff?text=Marker,Portable Marker Pack,VitalLife,Art,193.91,4.2,True,SKU-ART-0010,3
+11,https://placehold.co/400x400/ec4899/ffffff?text=Brush,Professional Brush Kit,AutoParts Pro,Art,55.29,3.6,False,SKU-ART-0011,3
+12,https://placehold.co/400x400/06b6d4/ffffff?text=Play,Smart Play Dough,AutoParts Pro,Toys,123.5,3.5,True,SKU-TOY-0012,2
+13,https://placehold.co/400x400/ef4444/ffffff?text=Vinyl,Premium Vinyl Record,DeskMate,Music,69.22,4.5,True,SKU-MUS-0013,2
+14,https://placehold.co/400x400/f59e0b/ffffff?text=Aquarium,Professional Aquarium Plant,TechVault,Pet Supplies,71.68,4.6,True,SKU-PET-0014,4
+15,https://placehold.co/400x400/ef4444/ffffff?text=Stuffed,Vintage Stuffed Animal,HomeNest,Toys,124.84,5.0,True,SKU-TOY-0015,2
+16,https://placehold.co/400x400/3b82f6/ffffff?text=Protein,Eco-Friendly Protein Bar,UrbanThread,Food & Beverage,76.27,3.9,True,SKU-FOO-0016,2
+17,https://placehold.co/400x400/ec4899/ffffff?text=Paper,Lightweight Paper Clips,UrbanThread,Office Supplies,156.17,4.3,True,SKU-OFF-0017,5
+18,https://placehold.co/400x400/8b5cf6/ffffff?text=Guitar,Professional Guitar Strings,NovaTech,Music,159.77,4.1,True,SKU-MUS-0018,2
+19,https://placehold.co/400x400/06b6d4/ffffff?text=Business,Premium Business Book,PageTurner,Books,175.14,4.9,True,SKU-BOO-0019,2
+20,https://placehold.co/400x400/f97316/ffffff?text=Locket,Handcrafted Locket,DeskMate,Jewelry,106.84,4.2,True,SKU-JEW-0020,3
+21,https://placehold.co/400x400/8b5cf6/ffffff?text=Heating,Compact Heating Pad,NovaTech,Health,70.83,4.8,True,SKU-HEA-0021,2
+22,https://placehold.co/400x400/f97316/ffffff?text=Brake,Advanced Brake Pad,PlayZone,Automotive,108.45,4.3,True,SKU-AUT-0022,5
+23,https://placehold.co/400x400/8b5cf6/ffffff?text=Seat,Heavy-Duty Seat Cover,ProGear,Automotive,30.36,4.2,True,SKU-AUT-0023,4
+24,https://placehold.co/400x400/6366f1/ffffff?text=Palette,Heavy-Duty Palette,TasteBud,Art,179.54,3.7,True,SKU-ART-0024,5
+25,https://placehold.co/400x400/10b981/ffffff?text=Nerf,Vintage Nerf Gun,CozyCorner,Toys,107.53,3.6,True,SKU-TOY-0025,2

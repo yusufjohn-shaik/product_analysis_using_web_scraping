@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Product Analyzer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main>
+    <h1>Product Analysis</h1>
+    <p>Scrapes the product table, cleans it, and shows the analysis report.</p>
+    <button id="run-btn">Run Analysis</button>
+    <p id="status"></p>
+
+    <section id="chart-section" hidden>
+      <h2>Charts</h2>
+      <img id="chart" alt="Analysis charts">
+    </section>
+
+    <section id="files-section" hidden>
+      <h2>Download files</h2>
+      <ul id="files"></ul>
+    </section>
+
+    <h2>Report</h2>
+    <pre id="output">Nothing run yet.</pre>
+
+    <h2 id="error-title" hidden>Errors</h2>
+    <pre id="error" class="error" hidden></pre>
+  </main>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
